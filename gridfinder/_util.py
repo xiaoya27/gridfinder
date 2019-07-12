@@ -9,6 +9,7 @@ Functions:
 """
 
 from pathlib import Path
+# the benifit of using pathlib https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
 import json
 
 import geopandas as gpd
